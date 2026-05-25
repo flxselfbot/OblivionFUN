@@ -2,7 +2,7 @@
     "name": "Oblivion Apps",
     "identifier": "com.oblivionapps.repo",
     "subtitle": "fun things I make idk why",
-    "description": "fun things I make idk why — random apps, browsers, games, and whatever else I felt like shipping.",
+    "description": "fun things I make idk why — random apps, browsers, games, and whatever else I felt like making.",
     "iconURL": "https://files.catbox.moe/v9ne0k.jpeg",
     "website": "https://files.catbox.moe",
     "tintColor": "dc2626",
@@ -12,8 +12,8 @@
             "bundleIdentifier": "com.sidehustle.browser.ios",
             "developerName": "Oblivion",
             "iconURL": "https://files.catbox.moe/7osq1w.png",
-            "localizedDescription": "A privacy-focused browser with a custom start page, tab bar, speed dials, ad blocking, and smart UA handling. Mac, iOS, and Android builds from the same project — this IPA is the iOS build.",
-            "subtitle": "Browser with hustle.",
+            "localizedDescription": "My first browser I made, W protection also.",
+            "subtitle": "Browse cleanly",
             "tintColor": "dc2626",
             "category": "utilities",
             "versions": [
@@ -23,7 +23,7 @@
                     "version": "1.5.0",
                     "buildVersion": "1.5",
                     "date": "2026-05-24T18:22:00+00:00",
-                    "localizedDescription": "Side Hustle 1.5.0 — native iOS start screen (logo, search, speed dials), tab bar, IPv6 privacy shield, Google/Cloudflare smart real UA, bundled new tab page.",
+                    "localizedDescription": "My first browser I made, W protection also.",
                     "minOSVersion": "16.0"
                 }
             ],
@@ -38,7 +38,7 @@
             "bundleIdentifier": "fun.neal.app",
             "developerName": "Oblivion",
             "iconURL": "https://files.catbox.moe/zycgo4.png",
-            "localizedDescription": "Neal.fun wrapped as an installable iOS app. Same silly experiments, just sideloaded.",
+            "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
             "subtitle": "neal.fun on your home screen",
             "tintColor": "dc2626",
             "category": "entertainment",
@@ -49,7 +49,7 @@
                     "version": "1.0",
                     "buildVersion": "1",
                     "date": "2026-05-24T12:00:00+00:00",
-                    "localizedDescription": "NealFun IPA — public build hosted on Oblivion Apps.",
+                    "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
                     "minOSVersion": "15.0"
                 }
             ],
@@ -64,8 +64,8 @@
             "bundleIdentifier": "com.c00lcars.release",
             "developerName": "Oblivion",
             "iconURL": "https://files.catbox.moe/kacptd.png",
-            "localizedDescription": "c00lcars — the public 1.5 release, repackaged for sideloading from this repo.",
-            "subtitle": "cool cars app",
+            "localizedDescription": "Full release YAY",
+            "subtitle": "My branded app",
             "tintColor": "dc2626",
             "category": "entertainment",
             "versions": [
@@ -75,7 +75,7 @@
                     "version": "1.5",
                     "buildVersion": "1.5",
                     "date": "2026-05-24T19:50:00+00:00",
-                    "localizedDescription": "c00lcars 1.5 — new icon and build bump.",
+                    "localizedDescription": "New update on framework, and a new icon :D",
                     "minOSVersion": "15.0"
                 }
             ],
@@ -84,6 +84,32 @@
             "versionDate": "2026-05-24T19:50:00+00:00",
             "size": 2282559,
             "downloadURL": "https://files.catbox.moe/cjbjvw.ipa"
+        },
+        {
+            "name": "Flixtor",
+            "bundleIdentifier": "com.oblivion.flixtor",
+            "developerName": "Oblivion",
+            "iconURL": "https://flixtor.to/favicon.ico",
+            "localizedDescription": "smth I made for fun, well, smth I use mostly...",
+            "subtitle": "Movies on the go!",
+            "tintColor": "dc2626",
+            "category": "entertainment",
+            "versions": [
+                {
+                    "downloadURL": "https://files.catbox.moe/fsspob.ipa",
+                    "size": 303023,
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-05-25T15:34:00+00:00",
+                    "localizedDescription": "smth I made for fun, well, smth I use mostly...",
+                    "minOSVersion": "16.0"
+                }
+            ],
+            "appPermissions": {},
+            "version": "1.0",
+            "versionDate": "2026-05-25T15:34:00+00:00",
+            "size": 303023,
+            "downloadURL": "https://files.catbox.moe/fsspob.ipa"
         }
     ]
 }
