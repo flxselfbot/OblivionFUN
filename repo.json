@@ -63,27 +63,27 @@
             "name": "c00lcars",
             "bundleIdentifier": "com.c00lcars.release",
             "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/oixu2v.png",
-            "localizedDescription": "c00lcars — the public 1.4 release, repackaged for sideloading from this repo.",
+            "iconURL": "https://files.catbox.moe/kacptd.png",
+            "localizedDescription": "c00lcars — the public 1.5 release, repackaged for sideloading from this repo.",
             "subtitle": "cool cars app",
             "tintColor": "dc2626",
             "category": "entertainment",
             "versions": [
                 {
-                    "downloadURL": "https://files.catbox.moe/czllm1.ipa",
-                    "size": 1455842,
-                    "version": "1.4",
-                    "buildVersion": "1.4",
-                    "date": "2026-05-24T12:00:00+00:00",
-                    "localizedDescription": "c00lcars 1.4 public IPA.",
+                    "downloadURL": "https://files.catbox.moe/cjbjvw.ipa",
+                    "size": 2282559,
+                    "version": "1.5",
+                    "buildVersion": "1.5",
+                    "date": "2026-05-24T19:50:00+00:00",
+                    "localizedDescription": "c00lcars 1.5 — new icon and build bump.",
                     "minOSVersion": "15.0"
                 }
             ],
             "appPermissions": {},
-            "version": "1.4",
-            "versionDate": "2026-05-24T12:00:00+00:00",
-            "size": 1455842,
-            "downloadURL": "https://files.catbox.moe/czllm1.ipa"
+            "version": "1.5",
+            "versionDate": "2026-05-24T19:50:00+00:00",
+            "size": 2282559,
+            "downloadURL": "https://files.catbox.moe/cjbjvw.ipa"
         }
     ]
 }
