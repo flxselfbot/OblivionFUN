@@ -72,7 +72,7 @@
                 {
                     "downloadURL": "https://files.catbox.moe/w0hu9h.ipa",
                     "size": 2290255,
-                    "version": "1.6.1",
+                    "version": "1.7",
                     "buildVersion": "7",
                     "date": "2026-05-26T21:30:00+00:00",
                     "localizedDescription": "New update on framework, and a new icon :D",
@@ -80,7 +80,7 @@
                 }
             ],
             "appPermissions": {},
-            "version": "1.6.1",
+            "version": "1.7",
             "versionDate": "2026-05-26T21:30:00+00:00",
             "size": 2290255,
             "downloadURL": "https://files.catbox.moe/w0hu9h.ipa"
