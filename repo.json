@@ -70,20 +70,20 @@
             "category": "entertainment",
             "versions": [
                 {
-                    "downloadURL": "https://files.catbox.moe/w0hu9h.ipa",
-                    "size": 2290255,
-                    "version": "1.7",
-                    "buildVersion": "7",
-                    "date": "2026-05-26T21:30:00+00:00",
+                    "downloadURL": "https://files.catbox.moe/4i1ams.ipa",
+                    "size": 2293121,
+                    "version": "1.8",
+                    "buildVersion": "8",
+                    "date": "2026-05-26T20:33:00+00:00",
                     "localizedDescription": "New update on framework, and a new icon :D",
                     "minOSVersion": "15.0"
                 }
             ],
             "appPermissions": {},
-            "version": "1.7",
-            "versionDate": "2026-05-26T21:30:00+00:00",
-            "size": 2290255,
-            "downloadURL": "https://files.catbox.moe/w0hu9h.ipa"
+            "version": "1.8",
+            "versionDate": "2026-05-26T20:33:00+00:00",
+            "size": 2293121,
+            "downloadURL": "https://files.catbox.moe/4i1ams.ipa"
         },
         {
             "name": "Flixtor",
