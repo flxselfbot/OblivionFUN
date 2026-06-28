@@ -70,20 +70,20 @@
             "category": "entertainment",
             "versions": [
                 {
-                    "downloadURL": "https://files.catbox.moe/4i1ams.ipa",
-                    "size": 2293121,
-                    "version": "1.8",
-                    "buildVersion": "8",
-                    "date": "2026-05-26T20:33:00+00:00",
+                    "downloadURL": "https://files.catbox.moe/3teo4q.ipa",
+                    "size": 2293127,
+                    "version": "1.8.1",
+                    "buildVersion": "9",
+                    "date": "2026-06-04T13:13:00+00:00",
                     "localizedDescription": "New update on framework, and a new icon :D",
                     "minOSVersion": "15.0"
                 }
             ],
             "appPermissions": {},
-            "version": "1.8",
-            "versionDate": "2026-05-26T20:33:00+00:00",
-            "size": 2293121,
-            "downloadURL": "https://files.catbox.moe/4i1ams.ipa"
+            "version": "1.8.1",
+            "versionDate": "2026-06-04T13:13:00+00:00",
+            "size": 2293127,
+            "downloadURL": "https://files.catbox.moe/3teo4q.ipa"
         },
         {
             "name": "Flixtor",
@@ -110,6 +110,32 @@
             "versionDate": "2026-05-25T15:34:00+00:00",
             "size": 303023,
             "downloadURL": "https://files.catbox.moe/fsspob.ipa"
+        },
+        {
+            "name": "VibeToggle",
+            "bundleIdentifier": "com.oblivionapps.vibetoggle",
+            "developerName": "Oblivion",
+            "iconURL": "https://files.catbox.moe/40mwp3.png",
+            "localizedDescription": "One button. Phone go brr until you turn it off.",
+            "subtitle": "on/off vibration",
+            "tintColor": "dc2626",
+            "category": "utilities",
+            "versions": [
+                {
+                    "downloadURL": "https://files.catbox.moe/zjhw83.ipa",
+                    "size": 27224,
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-06-28T18:35:00+00:00",
+                    "localizedDescription": "One button. Phone go brr until you turn it off.",
+                    "minOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {},
+            "version": "1.0",
+            "versionDate": "2026-06-28T18:35:00+00:00",
+            "size": 27224,
+            "downloadURL": "https://files.catbox.moe/zjhw83.ipa"
         }
     ]
 }
