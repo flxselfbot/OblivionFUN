@@ -136,6 +136,32 @@
             "versionDate": "2026-06-28T18:35:00+00:00",
             "size": 27224,
             "downloadURL": "https://files.catbox.moe/zjhw83.ipa"
+        },
+        {
+            "name": "c00lkiddtech",
+            "bundleIdentifier": "live.c00lkiddtech.app",
+            "developerName": "Oblivion",
+            "iconURL": "https://files.catbox.moe/ykjrrv.png",
+            "localizedDescription": "c00lkiddtech.live wrapped in an app.",
+            "subtitle": "c00lkiddtech on your home screen",
+            "tintColor": "22c55e",
+            "category": "utilities",
+            "versions": [
+                {
+                    "downloadURL": "https://files.catbox.moe/cc6rns.ipa",
+                    "size": 78441,
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-06-28T19:32:00+00:00",
+                    "localizedDescription": "c00lkiddtech.live wrapped in an app.",
+                    "minOSVersion": "16.0"
+                }
+            ],
+            "appPermissions": {},
+            "version": "1.0",
+            "versionDate": "2026-06-28T19:32:00+00:00",
+            "size": 78441,
+            "downloadURL": "https://files.catbox.moe/cc6rns.ipa"
         }
     ]
 }
