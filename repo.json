@@ -1,167 +1,167 @@
 {
-    "name": "Oblivion Apps",
-    "identifier": "com.oblivionapps.repo",
-    "subtitle": "fun things I make idk why",
-    "description": "fun things I make idk why — random apps, browsers, games, and whatever else I felt like making.",
-    "iconURL": "https://files.catbox.moe/v9ne0k.jpeg",
-    "website": "https://files.catbox.moe",
-    "tintColor": "dc2626",
-    "apps": [
+  "name": "Oblivion Apps",
+  "identifier": "com.oblivionapps.repo",
+  "subtitle": "fun things I make idk why",
+  "description": "fun things I make idk why \u2014 random apps, browsers, games, and whatever else I felt like making.",
+  "iconURL": "https://files.catbox.moe/v9ne0k.jpeg",
+  "website": "https://files.catbox.moe",
+  "tintColor": "dc2626",
+  "apps": [
+    {
+      "name": "Side Hustle",
+      "bundleIdentifier": "com.sidehustle.browser.ios",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/7osq1w.png",
+      "localizedDescription": "My first browser I made, W protection also.",
+      "subtitle": "Browse cleanly",
+      "tintColor": "dc2626",
+      "category": "utilities",
+      "versions": [
         {
-            "name": "Side Hustle",
-            "bundleIdentifier": "com.sidehustle.browser.ios",
-            "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/7osq1w.png",
-            "localizedDescription": "My first browser I made, W protection also.",
-            "subtitle": "Browse cleanly",
-            "tintColor": "dc2626",
-            "category": "utilities",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/0u31xi.ipa",
-                    "size": 3652974,
-                    "version": "1.5.0",
-                    "buildVersion": "1.5",
-                    "date": "2026-05-24T18:22:00+00:00",
-                    "localizedDescription": "My first browser I made, W protection also.",
-                    "minOSVersion": "16.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.5.0",
-            "versionDate": "2026-05-24T18:22:00+00:00",
-            "size": 3652974,
-            "downloadURL": "https://files.catbox.moe/0u31xi.ipa"
-        },
-        {
-            "name": "NealFun",
-            "bundleIdentifier": "fun.neal.app",
-            "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/zycgo4.png",
-            "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
-            "subtitle": "neal.fun on your home screen",
-            "tintColor": "dc2626",
-            "category": "entertainment",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/16vqvi.ipa",
-                    "size": 461811,
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-05-24T12:00:00+00:00",
-                    "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
-                    "minOSVersion": "15.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.0",
-            "versionDate": "2026-05-24T12:00:00+00:00",
-            "size": 461811,
-            "downloadURL": "https://files.catbox.moe/16vqvi.ipa"
-        },
-        {
-            "name": "c00lcars",
-            "bundleIdentifier": "com.c00lcars.release",
-            "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/kacptd.png",
-            "localizedDescription": "Full release YAY",
-            "subtitle": "My branded app",
-            "tintColor": "dc2626",
-            "category": "entertainment",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/3teo4q.ipa",
-                    "size": 2293127,
-                    "version": "1.8.1",
-                    "buildVersion": "9",
-                    "date": "2026-06-04T13:13:00+00:00",
-                    "localizedDescription": "New update on framework, and a new icon :D",
-                    "minOSVersion": "15.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.8.1",
-            "versionDate": "2026-06-04T13:13:00+00:00",
-            "size": 2293127,
-            "downloadURL": "https://files.catbox.moe/3teo4q.ipa"
-        },
-        {
-            "name": "Flixtor",
-            "bundleIdentifier": "com.oblivion.flixtor",
-            "developerName": "Oblivion",
-            "iconURL": "https://flixtor.to/favicon.ico",
-            "localizedDescription": "smth I made for fun, well, smth I use mostly...",
-            "subtitle": "Movies on the go!",
-            "tintColor": "dc2626",
-            "category": "entertainment",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/fsspob.ipa",
-                    "size": 303023,
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-05-25T15:34:00+00:00",
-                    "localizedDescription": "smth I made for fun, well, smth I use mostly...",
-                    "minOSVersion": "16.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.0",
-            "versionDate": "2026-05-25T15:34:00+00:00",
-            "size": 303023,
-            "downloadURL": "https://files.catbox.moe/fsspob.ipa"
-        },
-        {
-            "name": "VibeToggle",
-            "bundleIdentifier": "com.oblivionapps.vibetoggle",
-            "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/40mwp3.png",
-            "localizedDescription": "One button. Phone go brr until you turn it off.",
-            "subtitle": "on/off vibration",
-            "tintColor": "dc2626",
-            "category": "utilities",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/zjhw83.ipa",
-                    "size": 27224,
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-06-28T18:35:00+00:00",
-                    "localizedDescription": "One button. Phone go brr until you turn it off.",
-                    "minOSVersion": "17.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.0",
-            "versionDate": "2026-06-28T18:35:00+00:00",
-            "size": 27224,
-            "downloadURL": "https://files.catbox.moe/zjhw83.ipa"
-        },
-        {
-            "name": "c00lkiddtech",
-            "bundleIdentifier": "live.c00lkiddtech.app",
-            "developerName": "Oblivion",
-            "iconURL": "https://files.catbox.moe/ykjrrv.png",
-            "localizedDescription": "c00lkiddtech.live wrapped in an app.",
-            "subtitle": "c00lkiddtech on your home screen",
-            "tintColor": "22c55e",
-            "category": "utilities",
-            "versions": [
-                {
-                    "downloadURL": "https://files.catbox.moe/cc6rns.ipa",
-                    "size": 78441,
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-06-28T19:32:00+00:00",
-                    "localizedDescription": "c00lkiddtech.live wrapped in an app.",
-                    "minOSVersion": "16.0"
-                }
-            ],
-            "appPermissions": {},
-            "version": "1.0",
-            "versionDate": "2026-06-28T19:32:00+00:00",
-            "size": 78441,
-            "downloadURL": "https://files.catbox.moe/cc6rns.ipa"
+          "downloadURL": "https://files.catbox.moe/0u31xi.ipa",
+          "size": 3652974,
+          "version": "1.5.0",
+          "buildVersion": "1.5",
+          "date": "2026-05-24T18:22:00+00:00",
+          "localizedDescription": "My first browser I made, W protection also.",
+          "minOSVersion": "16.0"
         }
-    ]
+      ],
+      "appPermissions": {},
+      "version": "1.5.0",
+      "versionDate": "2026-05-24T18:22:00+00:00",
+      "size": 3652974,
+      "downloadURL": "https://files.catbox.moe/0u31xi.ipa"
+    },
+    {
+      "name": "NealFun",
+      "bundleIdentifier": "fun.neal.app",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/zycgo4.png",
+      "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
+      "subtitle": "neal.fun on your home screen",
+      "tintColor": "dc2626",
+      "category": "entertainment",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/16vqvi.ipa",
+          "size": 461811,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-24T12:00:00+00:00",
+          "localizedDescription": "First app I made, it's just neal.fun wrapped in an app.",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-05-24T12:00:00+00:00",
+      "size": 461811,
+      "downloadURL": "https://files.catbox.moe/16vqvi.ipa"
+    },
+    {
+      "name": "c00lcars",
+      "bundleIdentifier": "com.c00lcars.release",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/kacptd.png",
+      "localizedDescription": "Full release YAY",
+      "subtitle": "My branded app",
+      "tintColor": "dc2626",
+      "category": "entertainment",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/adka0n.ipa",
+          "size": 2292132,
+          "version": "1.8.2",
+          "buildVersion": "10",
+          "date": "2026-07-05T20:31:00+00:00",
+          "localizedDescription": "New update on framework, and a new icon :D",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.8.2",
+      "versionDate": "2026-07-05T20:31:00+00:00",
+      "size": 2292132,
+      "downloadURL": "https://files.catbox.moe/adka0n.ipa"
+    },
+    {
+      "name": "Flixtor",
+      "bundleIdentifier": "com.oblivion.flixtor",
+      "developerName": "Oblivion",
+      "iconURL": "https://flixtor.to/favicon.ico",
+      "localizedDescription": "smth I made for fun, well, smth I use mostly...",
+      "subtitle": "Movies on the go!",
+      "tintColor": "dc2626",
+      "category": "entertainment",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/fsspob.ipa",
+          "size": 303023,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-25T15:34:00+00:00",
+          "localizedDescription": "smth I made for fun, well, smth I use mostly...",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-05-25T15:34:00+00:00",
+      "size": 303023,
+      "downloadURL": "https://files.catbox.moe/fsspob.ipa"
+    },
+    {
+      "name": "VibeToggle",
+      "bundleIdentifier": "com.oblivionapps.vibetoggle",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/40mwp3.png",
+      "localizedDescription": "One button. Phone go brr until you turn it off.",
+      "subtitle": "on/off vibration",
+      "tintColor": "dc2626",
+      "category": "utilities",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/zjhw83.ipa",
+          "size": 27224,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-28T18:35:00+00:00",
+          "localizedDescription": "One button. Phone go brr until you turn it off.",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-06-28T18:35:00+00:00",
+      "size": 27224,
+      "downloadURL": "https://files.catbox.moe/zjhw83.ipa"
+    },
+    {
+      "name": "c00lkiddtech",
+      "bundleIdentifier": "live.c00lkiddtech.app",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/ykjrrv.png",
+      "localizedDescription": "c00lkiddtech.live wrapped in an app.",
+      "subtitle": "c00lkiddtech on your home screen",
+      "tintColor": "22c55e",
+      "category": "utilities",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/cc6rns.ipa",
+          "size": 78441,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-28T19:32:00+00:00",
+          "localizedDescription": "c00lkiddtech.live wrapped in an app.",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-06-28T19:32:00+00:00",
+      "size": 78441,
+      "downloadURL": "https://files.catbox.moe/cc6rns.ipa"
+    }
+  ]
 }
